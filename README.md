@@ -160,5 +160,10 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
+
+## Authors
+Fourth Part of AirBnb
+Etomu Joshua Gbenga - [Github](https://github.com/CyberGA) / [Email](etomu.joshua@gmail.com)  
+Obikwelu Chidera Jane - [Github](https://github.com/Derasine96) / [Email](chidexobikwelu@gmail.com)
 ## License
 Public Domain. No copy write protection. 
